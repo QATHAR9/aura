@@ -23,7 +23,7 @@ const Header: React.FC<HeaderProps> = ({ currentPage, onPageChange }) => {
           {/* Logo */}
           <div className="flex items-center">
             <img 
-              src="/logo.png" 
+              src="/logoo.png" 
               alt="Aura Cosmetics TZ" 
               className="h-12 w-auto mr-3"
               onError={(e) => {
