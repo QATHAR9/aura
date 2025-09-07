@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center mb-6">
               <img 
-                src="/logo.png" 
+                src="/logoo.png" 
                 alt="Aura Cosmetics TZ" 
                 className="h-10 w-auto mr-3"
                 onError={(e) => {
